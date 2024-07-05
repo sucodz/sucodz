@@ -25,8 +25,10 @@
 
 ## 🚀 Technologies
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sucodz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="300" alt="languages graph"  />
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
 <img width="12" />
@@ -103,11 +105,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo" title="WordPress" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo" title="Adobe XD" />
-
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sucodz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="300" alt="languages graph"  />
 </div>
 
 ###
