@@ -7,14 +7,9 @@
 <div align="left">
  
   Hi there! I'm Soulef Bentorki, a passionate software developer with a love for creating innovative and efficient solutions. 
-  I specialize in web development, Arduino and Machine Learning and have experience working with a variety of technologies. I enjoy learning new things and collaborating with others to build amazing projects. 
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech! 🚀
-
-- 🔭 I’m currently working on building Machine Learning Models
-- 🌱 I’m currently learning Computer Vision And Data Structures Algorithms
-- 👯 I’m looking to collaborate on Web development PProjects
-- 📫 How to reach me: soulefbentorki@gmail.com
+  
+- 🔭 I’m currently working as JAVA Entreprise Edition Web Developer at BIG Informatique
+- 📫 Feel Free to visit my Portfolio : [soulef-bentorki-portfolio](https://soulefbentorki.netlify.app) 
 </div>
 
 ###
