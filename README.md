@@ -1,4 +1,4 @@
-## Hello 👋 I'm Soulef Bentorki
+## <h1 align="center">Hello 👋 I'm Soulef Bentorki</h1>
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
@@ -6,7 +6,7 @@
 
 <div align="left">
  
-  Hi there! I'm Soulef Bentorki, a passionate software developer with a love for creating innovative and efficient solutions. 
+  Hi there! I'm Soulef Bentorki, a passionate Algerian software developer with a love for creating innovative and efficient solutions. 
   
 - 🔭 I’m currently working as JAVA Entreprise Edition Web Developer at BIG Informatique
 - 📫 Feel Free to visit my Portfolio : [soulef-bentorki-portfolio](https://soulefbentorki.netlify.app) 
