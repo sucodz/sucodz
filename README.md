@@ -1,4 +1,4 @@
-# Hello 👋 I'm Soulef Bentorki
+## Hello 👋 I'm Soulef Bentorki
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
@@ -10,6 +10,17 @@
   
 - 🔭 I’m currently working as JAVA Entreprise Edition Web Developer at BIG Informatique
 - 📫 Feel Free to visit my Portfolio : [soulef-bentorki-portfolio](https://soulefbentorki.netlify.app) 
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/su_codz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/soulef-bentorki-619aa321a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -109,17 +120,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/su_codz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/soulef-bentorki-619aa321a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 ###
@@ -127,12 +127,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SoulefBentorki/SoulefBentorki/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=sucodz&theme=dracula" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
