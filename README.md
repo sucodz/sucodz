@@ -1,4 +1,6 @@
-## <h1 align="center">Hello 👋 I'm Soulef Bentorki</h1>
+<img align="center" src="https://firebasestorage.googleapis.com/v0/b/soulefportfolio.appspot.com/o/github%2FNavy%20Geometric%20Technology%20LinkedIn%20Banner.png?alt=media&token=ac9559d2-2435-42ff-9c7f-854d262e623d" alt="cover Soulef Bentroki"/>
+
+<h1 align="left">Hello 👋 I'm Soulef Bentorki</h1>
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
