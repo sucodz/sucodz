@@ -124,9 +124,9 @@
 
 ###
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/669b9af69a21cb3c68644a07?variant=dark" alt="roadmap.sh"/></a>
-
-<img src="https://raw.githubusercontent.com/SoulefBentorki/SoulefBentorki/output/snake.svg" alt="Snake animation" />
+<div align="center">
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/669b9af69a21cb3c68644a07?variant=dark&roadmaps=669baa4c9a21cb3c68664f24%2Cjava%2Cjavascript" alt="roadmap.sh"/></a>
+</div>
 
 ###
 
