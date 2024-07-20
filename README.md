@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/669b9af69a21cb3c68644a07?variant=light&roadmaps=669baa4c9a21cb3c68664f24%2Cjava%2Cjavascript" alt="roadmap.sh"/></a>
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/669b9af69a21cb3c68644a07?variant=light&roadmaps=javascript%2Cjava%2Csql%2Cdata-analyst" alt="roadmap.sh"/></a>
 </div>
 
 ###
