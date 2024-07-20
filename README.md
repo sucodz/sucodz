@@ -36,6 +36,14 @@
 
 <br clear="both">
 
+###
+
+<div align="center">
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/669b9af69a21cb3c68644a07?variant=light&roadmaps=669baa4c9a21cb3c68664f24%2Cjava%2Cjavascript" alt="roadmap.sh"/></a>
+</div>
+
+###
+
 ## 🚀 Technologies
 
 <div align="left">
@@ -125,7 +133,6 @@
 ###
 
 <div align="center">
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/669b9af69a21cb3c68644a07?variant=light&roadmaps=669baa4c9a21cb3c68664f24%2Cjava%2Cjavascript" alt="roadmap.sh"/></a>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sucodz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="440" alt="languages graph"  />
 </div>
 
