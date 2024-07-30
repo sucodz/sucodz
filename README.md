@@ -132,7 +132,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SoulefBentorki/SoulefBentorki/output/snake.svg" alt="Snake animation" /> 
+<img src="https://raw.githubusercontent.com/sucodz/sucodz/output/snake.svg" alt="Snake animation" /> 
 
 ###
 
