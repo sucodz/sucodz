@@ -1,4 +1,4 @@
-<img align="center" src="https://photos.google.com/u/6/album/AF1QipOQTs1pfBqnohug-_3rRGgGqPv32fCrwH8SrSgg/photo/AF1QipPv3_wOPUiho2U3Hff8rEkeZtPlbKaRzv07eS5q" alt="cover Soulef Bentroki"/>
+<img align="center" src="https://photos.app.goo.gl/Rg51k2PrR8T79XP38" alt="cover Soulef Bentroki"/>
 
 <h1 align="left">Hello 👋 I'm Soulef Bentorki</h1>
 
