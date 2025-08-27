@@ -1,6 +1,6 @@
 <img align="center" src="https://lh3.googleusercontent.com/pw/AP1GczMd9ws5v62gZb8ndWrsCggkNzIT7IV-CG2wc9NiSx0e1nzpK7IWOxCygfX0Vm9XQcDvAebnDOVpmvhMprPKLI_TOYY-x8kiH4-8Wj5Ilq5dhxNQDuVvy0nSRpGPLKWmtdyvV4eStWuUnd_cGsh6cN8=w1200-h400-s-no-gm" alt="cover Soulef Bentroki"/>
 
-<h1 align="left">Hello 👋 I'm Soulef Bentorki</h1>
+<h1 align="left">Hello 👋 I'm Soulef Bentorki </h1>
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
