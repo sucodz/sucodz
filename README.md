@@ -33,7 +33,12 @@
 
  ###
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sucodz&" alt="sucodz" /> 
+ <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sucodz&" alt="sucodz" /> -->
+ <!--![GitHub Streak](https://streak-stats.demolab.com?user=sucodz&theme=dark&hide_border=true)-->
+ ![GitHub Streak](https://streak-stats.demolab.com?user=sucodz&theme=dark&hide_border=true&v=1)
+
+
+
 
 </div>
 
